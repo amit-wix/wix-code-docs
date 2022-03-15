@@ -173,7 +173,7 @@
         "ret":
           { "type": "void" },
         "locations":
-          [ { "lineno": 130,
+          [ { "lineno": 128,
               "filename": "SignatureInput.js" } ],
         "docs":
           { "summary": "Clears the signature.",
@@ -236,7 +236,7 @@
             "extra":
               {  } },
         "extra":
-          { "eventType": "change" } } ],
+          {  } } ],
   "callbacks": [],
   "messages": [],
   "extra":
