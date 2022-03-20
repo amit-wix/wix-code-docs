@@ -2,9 +2,10 @@
   "memberOf": "$w",
   "mixes":
     [ "$w.Event" ],
-  "labels": [],
+  "labels":
+    [ "changed" ],
   "location":
-    { "lineno": 8,
+    { "lineno": 9,
       "filename": "DatePickerEvent.js" },
   "docs":
     { "summary": "Event that is triggred when the date picker's view changes.",
@@ -16,7 +17,8 @@
         {  } },
   "properties":
     [ { "name": "options",
-        "labels": [],
+        "labels":
+          [ "removed" ],
         "get": true,
         "set": false,
         "type": "Object",

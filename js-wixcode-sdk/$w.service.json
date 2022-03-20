@@ -298,7 +298,7 @@
         "ret":
           { "type": "void" },
         "locations":
-          [ { "lineno": 412,
+          [ { "lineno": 413,
               "filename": "DatePicker.js" } ],
         "docs":
           { "summary": "Handles operations triggered when the date picker's view changes.",
