@@ -1,0 +1,22 @@
+{ "name": "AppointmentFieldEvent",
+  "mixes":
+    [ "$w.Event" ],
+  "labels":
+    [ "new" ],
+  "location":
+    { "lineno": 9,
+      "filename": "ApppointmentFieldEvnet.js" },
+  "docs":
+    { "summary": "Event that is triggred when the date picker's view changes.",
+      "description":
+        [ "The properties of a `DatePickerEvent` refer to the view." ],
+      "links": [],
+      "examples": [],
+      "extra":
+        {  } },
+  "properties": [],
+  "operations": [],
+  "callbacks": [],
+  "messages": [],
+  "extra":
+    {  } }
